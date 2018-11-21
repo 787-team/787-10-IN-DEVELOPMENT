@@ -52,7 +52,7 @@
 	<ixy unit="SLUG*FT2"> 0.015488805 </ixy> <!-- Values from YASIM Solver (old 787 FDM) -->
 	<ixz unit="SLUG*FT2"> 0.015488805 </ixz> <!-- Values from YASIM Solver (old 787 FDM) -->
 	<iyz unit="SLUG*FT2">         0 </iyz>
-   <emptywt unit="LBS" > 277000 </emptywt> <!-- Supposed to be 242000 but the plane acts too heavy with that setting -->
+   <emptywt unit="LBS" > 445000 </emptywt> <!-- Supposed to be 242000 but the plane acts too heavy with that setting -->
    <location name="CG" unit="IN"> <!-- Values from YASIM Solver (old 787 FDM) -->
      <x> -16 </x>
      <y>   0.00 </y>
@@ -338,7 +338,7 @@
 
 	<system file="pushback"/>
 
-<flight_control name="FCS: 787-8">
+<flight_control name="FCS: 787-10">
 
   <channel name="Pitch">
    <summer name="Pitch Trim Sum">
