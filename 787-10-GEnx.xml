@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://jsbsim.sourceforge.net/JSBSim.xsl"?>
-<fdm_config name="787-9" version="2.0" release="BETA"
+<fdm_config name="787-10" version="2.0" release="BETA"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:noNamespaceSchemaLocation="http://jsbsim.sourceforge.net/JSBSim.xsd">
 
@@ -8,7 +8,7 @@
   <author> Narendran Muraleedharan, Dwayne Gable and Nicky Ivy, Jonathan Redpath</author>
   <filecreationdate> 2017-04-21 </filecreationdate>
   <version>$Revision: 1.1 $</version>
-  <description> Flight Dynamics Model for the Boeing 787-9 GEnx. Revised by J Redpath</description>
+  <description> Flight Dynamics Model for the Boeing 787-10 GEnx. Revised by J Redpath, next change into 787-10 by rx4 on GitHub.</description>
 </fileheader>
 
 <!-- UNIT CONVERSIONS :
